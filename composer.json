@@ -1,5 +1,5 @@
 {
-	"name" : "uskur/omnipay-nestpay",
+	"name" : "pars-design/omnipay-nestpay",
 	"type" : "library",
 	"description" : "NestPay (EST) (İş Bankası, Akbank, Finansbank, Denizbank, Kuveytturk, Halkbank, Anadolubank, ING Bank, Citibank, Cardplus, Ziraat Bankası sanal pos) gateway for Omnipay payment processing library",
 	"keywords" : [
@@ -23,7 +23,7 @@
 		"pay",
 		"payment"
 	],
-	"homepage" : "https://github.com/uskur/omnipay-nestpay",
+	"homepage" : "https://github.com/pars-design/omnipay-nestpay",
 	"license" : "MIT",
 	"authors" : [{
 			"name" : "Yasin Kuyu",
